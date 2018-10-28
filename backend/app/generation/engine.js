@@ -33,7 +33,7 @@ class GenerationEngine {
        )
       
       })
-      .catch(error => console.log.error(error));
+      .catch(error => console.error(error));
 
     //console.logs//instance
     
