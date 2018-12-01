@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html>\r\n<html>\r\n  <body>\r\n    <h1>Dragon Stack</h1>\r\n    <div id=\"root\"></div>\r\n    <script src=\"/dist/frontend.js\"></script>\r\n  </body>\r\n</html>"},"hash":"32c002f0738824b00abba79681b918f4"}
