@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";\n\nexports.__esModule = true;\nexports.default = removeStyle;\n\nfunction removeStyle(node, key) {\n  return 'removeProperty' in node.style ? node.style.removeProperty(key) : node.style.removeAttribute(key);\n}\n\nmodule.exports = exports[\"default\"];"},"hash":"20ea781793f2983c35844ffcfda0860c"}

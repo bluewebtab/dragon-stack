@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";\n\nexports.__esModule = true;\nexports.default = getWindow;\n\nfunction getWindow(node) {\n  return node === node.window ? node : node.nodeType === 9 ? node.defaultView || node.parentWindow : false;\n}\n\nmodule.exports = exports[\"default\"];"},"hash":"fa47e2d3b8dead38e20a6a759ad52d65"}

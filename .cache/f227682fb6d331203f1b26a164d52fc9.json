@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"function _interopRequireDefault(obj) {\n  return obj && obj.__esModule ? obj : {\n    default: obj\n  };\n}\n\nmodule.exports = _interopRequireDefault;"},"hash":"cd19054de9d94ff6aee1a91f1dfb815b"}
